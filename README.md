@@ -32,7 +32,7 @@ As a pharmacist, I developed strong analytical skills, attention to detail, and 
 My journey into tech began when I stumbled across a Macbook which required performance boosting. Diving deeper into the make the software faster, there was some coding skills required. Hence I discovered a passion for coding, and taking a bold step by completing the Northcoders bootcamp. After completing the course, I have gained hands-on experience in building full-stack applications and I'm excited to apply my knowledge to real-world projects in the software industry.
 Recently, I was able accomplish a contract to fulfill events website that connects people with the advantage of adding events directly to Google calendar. 
 
-#Blacklight Software
+## Blacklight Software
 
 I acquried a job at Blacklight software - consultancy specialised in harnessing Microsoft technologies to provide the optimised business and tech solutions for industries including pharmaceutical, airspace, housing associations and much more. I am training as a level 4 apprentice software engineer that is primarily learning C# as much of the source code is based on this programming language. I have gained knowledge on Power platform to understand dataverse; storing of data and automate flows creating systems which automate processes. Working with different clients is fascinating as the architectural design of the applications vary drastically making coding more dynamic than ever before.
 
